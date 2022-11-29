@@ -1,0 +1,420 @@
+#head1 {
+	text-align: top;
+	color: white;
+	margin: 80px;
+}
+#head2 {
+	text-align: right;
+	color: white;
+	margin-right: 100px;
+	margin-top: -100px;
+}
+#logo1 {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+#head3 {
+	text-align: bottom;
+	color: white;
+
+}
+#needed1 {
+	display: block;
+  	margin-left: auto;
+  	margin-right: -15px;
+  	margin-top: -100px;
+}
+#me1 {
+	width: 500px;
+	height: 500px;
+	margin:10px;
+	
+}
+#table1 {
+	color: white;
+	border-style: outset;
+	padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+
+}
+#table2 {
+	color: white;
+	border-style: outset;
+	padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  position:relative; left: 580px; bottom: 623px;
+}
+#table3 {
+	color: white;
+	border-style: outset;
+	padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  position:relative; left: 400px; top:-400px;
+
+}
+#table4 {
+	color: white;
+	border-style: outset;
+	padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  position:relative; left: 680px; top:-399px;
+
+
+}
+#table5 {
+	color: white;
+	border-style: outset;
+	padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  position:relative; right: 20px; top: -95px;
+
+
+
+}
+#table6 {
+	color: white;
+	border-style: outset;
+	padding: 10px 20px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 25px;
+  position:relative; left: 300px; top: -95px;
+
+
+}
+#aboutme {
+	color: white;
+	margin-left: 580px;
+	position:relative; top:-610px;
+}
+#manualskill {
+	color: white;
+	margin-left: 580px;
+	position:relative; top:-460px;
+}
+#interests {
+	color: white;
+	margin-left: 1080px;
+	position:relative; top:-600px;
+}
+#heros {
+	margin-left:-1080px;
+	position:relative; top:200px;
+}
+#education {
+	color: white;
+	margin-left:580px;
+	position: relative; top:-730px; 
+}
+#contacts {
+	color: white;
+	margin-left:1080px;
+	position: relative; top:-870px;
+}
+#needed2 {
+	display: block;
+  	margin-left: auto;
+  	margin-right: -15px;
+  	margin-top: 60px;
+}
+#sum {
+	display:block;
+	margin-left:-850px;
+	margin-top:80px;
+}
+#myhero {
+	color:white;
+	font-size: 50px;
+	margin-top: -1000px;
+	margin-left: 650px;
+}
+#sum1 {
+	display:block;
+	margin-left: 100px;
+}
+#myhero1 {
+	color:white;
+	margin-left: 200px;
+	margin-top: -50px;
+}
+#sum2 {
+	display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#myhero2 {
+	color: white;
+	margin-left: 1000px;
+	margin-top: -45px;
+}
+#mostplayedhero {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum3 {
+	display:block;
+	margin-left: 230px;
+}
+#last3 {
+	color:white;
+	font-size: 50px;
+	margin-top: -100px;
+	margin-left: 700px;
+}
+#sum4 {
+	display:block;
+	margin-left: 100px;
+}
+#sum5 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#lastgame1 {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum6 {
+	display:block;
+	margin-left: 100px;
+}
+#sum7 {
+	display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#lastgame2 {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum8 {
+	display:block;
+	margin-left: 100px;
+}
+#sum9 {
+	display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#lastgame3 {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum10 {
+	display:block;
+	margin-left: 230px;
+}
+#setup {
+	color:white;
+	font-size: 50px;
+	margin-top: -100px;
+	margin-left: 900px;
+}
+#sum11 {
+	display:block;
+	margin-left: 100px;
+}
+#sum12 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#setup1 {
+	color:white;
+	margin-left: 200px;
+	margin-top: -50px;
+}
+#setup2 {
+	color: white;
+	margin-left: 1000px;
+	margin-top: -45px;
+
+}
+#hotkeys {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum13 {
+	display:block;
+	margin-left: 100px;
+}
+#sum14 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#advencedhotkeys {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum15 {
+	display:block;
+	margin-left: 100px;
+}
+#sum16 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#options {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum17 {
+	display:block;
+	margin-left: 100px;
+}
+#sum18 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#advencedoptions {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum19 {
+	display:block;
+	margin-left: 230px;
+}
+#items {
+	color:white;
+	font-size: 50px;
+	margin-top: -100px;
+	margin-left: 900px;
+}
+#sum20 {
+	display:block;
+	margin-left: 100px;
+}
+#sum21 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#item1 {
+	color:white;
+	margin-left: 200px;
+	margin-top: -50px;
+}
+#item2 {
+	color: white;
+	margin-left: 1000px;
+	margin-top: -45px;
+
+}
+#pudge {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum22 {
+	display:block;
+	margin-left: 100px;
+}
+#sum23 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#drow {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum24 {
+	display:block;
+	margin-left: 100px;
+}
+#sum25 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#spectre {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum26 {
+	display:block;
+	margin-left: 100px;
+}
+#sum27 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#invoker {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#sum28 {
+	display:block;
+	margin-left: 230px;
+}
+#stats {
+	color:white;
+	font-size: 50px;
+	margin-top: -100px;
+	margin-left: 900px;
+}
+#sum29 {
+	display:block;
+	margin-left: 100px;
+}
+#sum30 {
+display:block;
+	margin-left: 900px;
+	margin-top: -70px;
+}
+#allstats {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
+#ending {
+	display: block;
+	width: 80%;
+	height: auto;
+	margin-left: 150px;
+}
